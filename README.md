@@ -1,4 +1,4 @@
-### 민제호 · AI 에이전트로 일하는 방식을 만듭니다
+### AI 에이전트로 일하는 방식을 만듭니다
 
 AI 코딩 에이전트(Claude Code·Codex)를 팀처럼 나눠 운영하면서 업무 자동화와 웹 서비스를 혼자 기획·개발·검증합니다. 방사선 분야에서 14년 일했습니다.
 
@@ -26,5 +26,3 @@ I plan, build and verify web tools and workflow automation with AI coding agents
 - **업무 자동화 에이전트**: MCP 서버와 에이전트 스킬로 문서 작성·결재·보고 업무를 자연어 요청으로 처리
 - **지식베이스와 RAG**: 여러 에이전트가 자료를 나눠 모으는 수집 파이프라인으로, 출처를 인용해 답하는 LLM 위키를 구축
 - **AI 영상 제작**: 대본 → AI 이미지·영상 생성 → AI 음성 → 자막 검사로 이어지는 제작 파이프라인
-
-Contact: contact@radiation-lab.com
